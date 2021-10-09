@@ -17,7 +17,7 @@ Appointy-Task - Instagram Backend using GO and MongoDB
 ![image](https://user-images.githubusercontent.com/68018354/136670468-40a2b31c-42a7-4ea6-b894-2ccff3653fd1.png) <br />
 ![image](https://user-images.githubusercontent.com/68018354/136670471-b1873d77-7f03-4f39-a937-293fdd4bea45.png) <br />
 ![image](https://user-images.githubusercontent.com/68018354/136670473-9cac8b47-313a-4d54-a74a-6c160ee8d4a7.png) <br />
- <br />
+
 2. Get a user using id <br />
 ![image](https://user-images.githubusercontent.com/68018354/136670477-01f89116-5d1c-4f4c-a192-9782130d5687.png) <br />
 ![image](https://user-images.githubusercontent.com/68018354/136670485-1277a1a9-776f-47dc-bda7-79454c83f3e6.png) <br />
