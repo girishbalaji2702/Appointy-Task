@@ -4,11 +4,15 @@ Appointy-Task - Instagram Backend using GO and MongoDB
 # *Note:* Documentation has been attached for reference for detailed description please do refer to it !
 
 # Endpoints:
-Create an User
-Get a user using id
-Create a Post.
-Get a post using id.
-List all posts of a user.
+1. Create an User
+2. Get a user using id
+3. Create a Post.
+4. Get a post using id.
+5. List all posts of a user.
+Other Features:
+1. Password protection
+2. Pagination
+3. unit tests
 
 # USAGE:
 1. install all the dependencies (GO AND MONGODB)
