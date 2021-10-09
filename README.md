@@ -4,7 +4,8 @@ Appointy-Task - Instagram Backend using GO and MongoDB
 # *Note:* Documentation has been attached for reference for detailed description please do refer to it !
 
 # Endpoints:
-1. Create an User
+1. Create an User ![image](https://user-images.githubusercontent.com/68018354/136670378-0b3fae6d-41d8-4bf8-a82a-55467b3c1ef6.png)
+
 2. Get a user using id
 3. Create a Post.
 4. Get a post using id.
@@ -22,4 +23,3 @@ Appointy-Task - Instagram Backend using GO and MongoDB
 5. open browser and go to the url "http://localhost:3000/" to test different endpoints 
 
 # Screenshots of Outputs: (Refer to Document)
-![image](https://user-images.githubusercontent.com/68018354/136670340-a4457975-ec62-4229-aa9b-c75f447c1a0a.png)
