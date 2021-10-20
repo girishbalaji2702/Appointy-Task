@@ -1,5 +1,5 @@
-# Appointy-Task
-Appointy-Task - Instagram Backend using GO and MongoDB 
+# Instagram Backend functions
+Instagram Backend using GO and MongoDB 
 
 # *Note:* Documentation has been attached for reference for detailed description please do refer to it !
 
